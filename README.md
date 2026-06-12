@@ -1,5 +1,5 @@
 # Scanlistasm3u
-Scaner listas m3u
+Escaner listas m3u
 
 
 gitclone https://github.com/shadowblack73/Scanlistasm3u
