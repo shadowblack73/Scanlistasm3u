@@ -2,12 +2,12 @@
 Scaner listas m3u
 
 
-git clone https://github.com/shadowblack73/Scanlistasm3u
+gitclone https://github.com/shadowblack73/Scanlistasm3u
 
 cd Scanlistasm3u
 
 ls
 
-python3 ALIEN_M3U_SCANNER.py
+python3 ALIENM3USCANNER.py
 
 
